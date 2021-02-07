@@ -1,0 +1,10 @@
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab4B\bin\Debug\Lab4B.exe.config
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab4B\bin\Debug\Lab4B.exe
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab4B\bin\Debug\Lab4B.pdb
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab4B\obj\Debug\Lab4B.csprojAssemblyReference.cache
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab4B\obj\Debug\Lab4B.Form1.resources
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab4B\obj\Debug\Lab4B.Properties.Resources.resources
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab4B\obj\Debug\Lab4B.csproj.GenerateResource.cache
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab4B\obj\Debug\Lab4B.csproj.CoreCompileInputs.cache
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab4B\obj\Debug\Lab4B.exe
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab4B\obj\Debug\Lab4B.pdb
